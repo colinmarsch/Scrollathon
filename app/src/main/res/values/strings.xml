@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Scrollathon</string>
+    <string name="distance_title">Distance Today:</string>
+    <string name="historical_button_text">See historical data</string>
 </resources>
